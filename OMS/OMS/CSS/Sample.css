@@ -1,0 +1,70 @@
+
+.Main-Div{
+    width:100%;
+    height:40vh;
+    border-style: groove;
+    border-bottom-color: gray;
+    margin-bottom: 5px;
+}
+.Image_Div{
+    width:300px;
+    height:98%;
+    float: left;
+}
+.Title-Div{
+    float: left;
+    width:45%;
+    height:10vh;
+}
+#Title-Label{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Rating{
+    margin-top:10px;
+    width:45px;
+    height: 4vh;
+    color:white;
+    margin-right: 2px;
+    background-color: rgb(45, 156, 45); 
+}
+.Reviews{
+    color:black;
+    font-size: smaller;
+    font-family:roboto;
+}
+.SubTitle-Div{
+    width:45%;
+    height:30vh;
+}
+#Specifications{
+    font-size: small;
+    font-weight: 200;
+}
+.Buttons-Div{
+    float: left;
+    width: 45%;
+    height:8vh;
+    margin-top:2px;
+}
+#Buy{
+    margin-left: 40px;
+    color:white;
+    background-color: green;
+    border-radius: 5px;
+}
+.Price-Div{
+    float: left;
+    width: 140px;
+    height:40vh;
+}
+.Middle{
+    width:50%;
+    float: left;
+    height:39vh;
+}
+#price{
+    font-size: larger;
+    font-weight: bold;
+    
+}
